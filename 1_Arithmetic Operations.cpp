@@ -10,7 +10,8 @@ cin>> second;
 add = first + second;
 subtract = first - second;
 multiply= first * second;
-divide = first /(float)second; //typecasting
+divide = first /(float)second; 
+//typecasting
 cout<< endl << "sum=" << add;
 cout<< endl << "Difference=" << subtract;
 cout<< endl << "Multiplication=" << multiply;
